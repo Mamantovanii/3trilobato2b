@@ -4,7 +4,10 @@ body {
     padding: 0;
     color: #ffffff;
 }
-
+.header{
+    display: flex;
+    justify-content: ;
+}
 header {
     background-color: #eb0d8e;
     color: white;
