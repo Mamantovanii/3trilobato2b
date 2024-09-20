@@ -16,8 +16,12 @@ header {
     border-bottom: 2px solid #ddd;
 }
 
-header .logo {
-    max-width: 300px;
+header.logo {
+<<<<<<< HEAD
+    max: width 150px;px;
+=======
+    max-width: 150px;
+>>>>>>> 3545fdd0eceb666dcdf57777b80bfdeb6ba7ceab
     height: auto;
 }
 
