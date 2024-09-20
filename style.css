@@ -17,12 +17,8 @@ header {
 }
 
 header.logo {
-<<<<<<< HEAD
-    max: width 150px;px;
-=======
     max-width: 150px;
->>>>>>> 3545fdd0eceb666dcdf57777b80bfdeb6ba7ceab
-    height: auto;
+    height: 150px;
 }
 
 header h1 {
