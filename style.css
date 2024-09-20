@@ -17,8 +17,9 @@ header {
 }
 
 header.logo {
-    max-width: 150px;
-    height: 150px;
+    padding: 1em;
+    margin: 1;
+    width: 1000px;
 }
 
 header h1 {
