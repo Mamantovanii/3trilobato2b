@@ -149,3 +149,6 @@ box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
     color: black;
     font-size: 16px;
 }
+.menu-list li a:hover {
+    color: #eb0d8e;
+}
