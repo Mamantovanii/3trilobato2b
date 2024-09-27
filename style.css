@@ -101,3 +101,7 @@ padding: 50px;
 border-radius: 10px;
 box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
 }
+.banner h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
