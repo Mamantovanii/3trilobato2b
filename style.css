@@ -126,3 +126,15 @@ box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
 .menu-btn:hover{
     background-color: #e775b7;
 }
+.menu-list {
+    display: none;
+    list-style: none;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+}
