@@ -105,3 +105,6 @@ box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
     font-size: 3em;
     margin-bottom: 10px;
 }
+.banner o {
+    font-size: 1.5em;
+}
