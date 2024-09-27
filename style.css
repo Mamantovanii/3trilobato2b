@@ -6,7 +6,12 @@ body {
 }
 .header{
     display: flex;
-    justify-content: ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+    position: relative;
 }
 header {
     background-color: #eb0d8e;
