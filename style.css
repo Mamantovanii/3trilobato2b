@@ -152,3 +152,6 @@ box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
 .menu-list li a:hover {
     color: #eb0d8e;
 }
+.dropdown:hover .menu-list {
+    display: block;
+}
